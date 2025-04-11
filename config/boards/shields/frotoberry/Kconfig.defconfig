@@ -1,0 +1,6 @@
+if SHIELD_FROTOBERRY
+
+config ZMK_KEYBOARD_NAME 
+    default "frotoberry" 
+
+    endif
